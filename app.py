@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="BMI Calculator", page_icon="⚖️")
 
-st.title("BMI Calculator")
+st.title("AIByTech BMI Calculator")
 
 st.write("Enter your height and weight to calculate your Body Mass Index (BMI).")
 
